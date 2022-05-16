@@ -1,1 +1,3 @@
 @@||skincity.com^
+||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
+||www.google.ad^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com
